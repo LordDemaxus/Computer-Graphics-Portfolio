@@ -1,1 +1,3 @@
-# Computer-Graphics-Portfolio
+# Computer Graphics Portfolio
+
+Portfolio for all graphics projects I did in CS 184
